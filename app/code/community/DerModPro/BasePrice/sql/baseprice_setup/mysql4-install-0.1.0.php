@@ -24,7 +24,7 @@
  */
 $this->startSetup();
 
-$types = Mage::helper('baseprice')->isBasePriceProInstalledAndActive() ? 'simple,bundle,configurable' : 'simple';
+$types = Mage::helper('baseprice')->isBasePriceProInstalledAndActive() ? 'simple,bundle,configurable' : 'simple,bundle,configurable';
 
 $this->addAttribute('catalog_product', 'base_price_amount', array(
 	'group'           => 'Prices',
