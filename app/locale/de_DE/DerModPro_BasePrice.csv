@@ -1,24 +1,10 @@
 "UNIT_KG","Kilogramm (kg)"
-"UNIT_LBS","Pound (lbs)"
-"UNIT_G","Gramm (g)"
-"UNIT_MG","Milligramm (mg)"
 "UNIT_L","Liter (l)"
-"UNIT_ML","Milliliter (ml)",
-"UNIT_M","Meter (m)",
-"UNIT_IN","Zoll (Inch)"
-"UNIT_CM","Zentimeter (cm)"
-"UNIT_MM","Millimeter (mm)"
+"UNIT_M","Meter (m)"
 "UNIT_PCS","Stück (St)"
 "UNIT_SHORT_KG","kg"
-"UNIT_SHORT_LBS","Lbs"
-"UNIT_SHORT_G","gr"
-"UNIT_SHORT_MG","mg"
 "UNIT_SHORT_L","l"
-"UNIT_SHORT_ML","ml",
-"UNIT_SHORT_M","m",
-"UNIT_SHORT_IN","Zoll"
-"UNIT_SHORT_CM","cm"
-"UNIT_SHORT_MM","mm"
+"UNIT_SHORT_M","m"
 "UNIT_SHORT_PCS","St"
 "The product unit amount must be greater the zero","Die Menge der Produkteinheit muss größer Null sein!"
 "Conversion rate not found for %s to %s","Umrechnungsfaktor nicht gefunden für %s nach %s!"

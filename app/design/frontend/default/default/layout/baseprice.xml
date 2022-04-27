@@ -21,14 +21,13 @@
  */
 -->
 <layout version="0.1.0">
-    <catalog_product_view>
+    <!--<catalog_product_view>
         <reference name="head">
 			<action method="addItem"><type>skin_css</type><name>css/baseprice.css</name></action>
         </reference>
-    </catalog_product_view>
+    </catalog_product_view>-->
     <!-- Enable the following block to use the BasePrice list template -->
-    <!--
-    <catalog_category_default>
+    <!--<catalog_category_default>
     	<reference name="product_list">
     		<action method="setTemplate"><template>baseprice/list.phtml</template></action>
     	</reference>
@@ -37,6 +36,5 @@
     	<reference name="product_list">
     		<action method="setTemplate"><template>baseprice/list.phtml</template></action>
     	</reference>
-    </catalog_category_layered>
-    -->
+    </catalog_category_layered>-->
 </layout>
